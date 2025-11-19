@@ -57,7 +57,7 @@ To set APP Key
 
 ## OUTPUT 
 
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/ae00acdb-65fb-4ffc-a231-57344f28626f" />
+
 
 <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/ec43cc40-b9d5-45dc-9fd8-a6bfe135d43f" />
 
